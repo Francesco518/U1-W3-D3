@@ -1,0 +1,20 @@
+.listCard {
+  display: inline-block;
+  background-color: rgba(214, 183, 183, 0);
+  width: 25%;
+  margin-inline: -3px;
+  border-radius: 6px;
+  margin-top: 20px;
+  font-style: oblique;
+}
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1681169592076-a98e702d997c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-size: 100%;
+
+  background-repeat: no-repeat;
+}
+
+#buttonBox {
+  margin-top: 10px;
+}
